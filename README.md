@@ -6,4 +6,4 @@ canny edge detction code is also provided for better usage
 
 # Smile detection using haarcascade of opencv
 I have used frontal face default cascade and smile detection cascade to detect eyes and faces in live video or recorded video.
-![Edge Detection](canny.PNG)
+![Smile Detection](smile.PNG)
