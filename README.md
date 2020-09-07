@@ -7,3 +7,8 @@ canny edge detction code is also provided for better usage
 # Smile detection using haarcascade of opencv
 I have used frontal face default cascade and smile detection cascade to detect eyes and faces in live video or recorded video.
 ![Smile Detection](smile.PNG)
+
+# Feature Detection
+Compares two images using ORB_create, you can use SIFT_create, SURF_create if you have license of them. Some amount of CPU power is used as BRUTE FORCE method is used so it takes little bit time to produce output image.
+![Feature Detection](12.jpg), ![Feature Detection](11.jpg)
+![Feature Detection](output.jpg)
