@@ -13,3 +13,6 @@ Compares two images using ORB_create, you can use SIFT_create, SURF_create if yo
 # img1
 ![Feature Detection](13.jpg)   ![Feature Detection](12.jpg) 
 ![Feature Detection](output.png)
+
+# image to sketch convertor:
+![image_to_sketch](https://user-images.githubusercontent.com/54789620/147922128-c8596087-28ed-44c2-bc64-8433d39be8dd.png)
